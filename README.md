@@ -1,4 +1,4 @@
 # website-personal
 web
 
-![alt text](https://github.com/salsadilarivarani/website-personal/blob/ca4e7ce098aa5c7d03a05984587164879cca3a48/drawing%20book.jpg)
+![alt text](https://github.com/salsadilarivarani/website-personal/blob/596b81b64f8069f87cd393927635307e63ce0242/spidol%20snowman.jpg)
