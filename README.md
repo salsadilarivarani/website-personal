@@ -1,4 +1,4 @@
 # website-personal
 web
 
-![alt text](https://github.com/salsadilarivarani/website-personal/blob/5d721656564a5f50346b5e84cc529cc67b211001/pena%20joyko.jpg)
+![alt text](https://github.com/salsadilarivarani/website-personal/blob/05cacb5408751910056d3fcb2ae61d4754771044/PENSIL.jpg)
